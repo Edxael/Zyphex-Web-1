@@ -121,6 +121,14 @@ body{
     display: table;
 }
 
+.vid-box-3{
+    border: 2px solid black;
+    margin: 35px auto;
+    padding: 40px;
+    background-color: rgba(128, 247, 251, 0.3);
+    display: table;
+}
+
 
 
 
@@ -148,3 +156,11 @@ body{
     font-size: 20px;
     margin: 14px 1px 0 1px;
 }
+
+
+.text-read-pad{
+    background-color: rgba(254, 254, 254, 0.7);
+    padding: 15px;
+    margin: 25px;
+}
+
